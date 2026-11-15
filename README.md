@@ -32,6 +32,10 @@ If an unauthorized person attempts to access the system, it detects failed authe
 - **UART Communication:** Sends authentication status and security logs to a PC.
 - **LCD Display:** Displays authentication messages and system status.
 
+## Block Diagram
+<img width="620" height="339" alt="WhatsApp Image 2026-11-15 at 3 44 59 PM" src="https://github.com/user-attachments/assets/cd99ecd5-02f7-4741-8d0c-4937f82ec78e" />
+
+
 ## 🛠️ Hardware Requirements
 
 - LPC2148 Microcontroller
