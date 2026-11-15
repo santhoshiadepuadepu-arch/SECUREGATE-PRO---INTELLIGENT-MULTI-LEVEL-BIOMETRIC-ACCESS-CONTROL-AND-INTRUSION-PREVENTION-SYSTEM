@@ -1,0 +1,2 @@
+# SECUREGATE-PRO---INTELLIGENT-MULTI-LEVEL-BIOMETRIC-ACCESS-CONTROL-AND-INTRUSION-PREVENTION-SYSTEM
+SecureGate Pro is an intelligent security and access control system developed using the ARM7-based LPC2148 microcontroller. The main objective of this project is to prevent unauthorized access by implementing a three-level authentication mechanism using User ID, Password, and Fingerprint Recognition.
