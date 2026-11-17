@@ -65,6 +65,11 @@ If an unauthorized person attempts to access the system, it detects failed authe
 5. **Access Denied:** If any authentication stage fails, the system displays an error message on the LCD and denies access.
 6. **Security Logging:** Authentication events and access status are transmitted to the PC through UART.
 
+
+##Output
+![Uploading IMG_20261103_170851020.jpg.jpeg…]()
+
+
 ## 👨‍💻 Administrator Functionalities
 
 The administrator can access a separate menu to perform the following operations:
