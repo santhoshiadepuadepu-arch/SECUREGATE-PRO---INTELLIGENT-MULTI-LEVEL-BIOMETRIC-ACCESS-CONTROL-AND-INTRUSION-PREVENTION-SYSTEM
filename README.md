@@ -67,7 +67,7 @@ If an unauthorized person attempts to access the system, it detects failed authe
 
 
 ##Output
-![Uploading IMG_20261103_170833183.jpg…]()
+"C:\Users\santh\OneDrive\Pictures\IMG_20261103_170833183.jpg"
 
 
 
