@@ -67,7 +67,7 @@ If an unauthorized person attempts to access the system, it detects failed authe
 
 
 ##Output
-"C:\Users\santh\OneDrive\Pictures\IMG_20261103_170833183.jpg"
+<img width="8155" height="3936" alt="IMG_20261103_170833183" src="https://github.com/user-attachments/assets/0406c152-ef3a-4887-b68c-a542a86f0508" />
 
 
 
