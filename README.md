@@ -67,7 +67,8 @@ If an unauthorized person attempts to access the system, it detects failed authe
 
 
 ##Output
-![Uploading IMG_20261103_170851020.jpg.jpeg…]()
+![Uploading IMG_20261103_170833183.jpg…]()
+
 
 
 ## 👨‍💻 Administrator Functionalities
